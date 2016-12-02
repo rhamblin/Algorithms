@@ -5,6 +5,8 @@
  * Disclaimer: I don't own or make claims of creating this algorithm. This was
  * used as a personal exercise in order to test my knowledge of the algorithm
  * being exhibited. For educational purposes only.
+ *
+ * O(n^2) complexity
  */
 public class SelectionSort {
 
